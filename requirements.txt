@@ -1,0 +1,2 @@
+# Windows automation dependencies
+pywinrm[kerberos]>=0.4.0
